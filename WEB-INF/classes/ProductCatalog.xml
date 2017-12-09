@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <product id="001">
+        <name>Samsung</name>
+        <price>399</price>
+        <category>SmartWatches</category>
+        <discount>10</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>15</rwarranty>        
+		<rrebate>10</rrebate>   
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60612</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>No</productOnSale>
+        <manufacturerName>Samsung</manufacturerName>
+        <quantity>50</quantity> 
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>75</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+        <accessory id="02">
+            <accname>Screen Guard</accname>
+            <accprice>50</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>		
+		<accessory id="03">
+            <accname>Wireless Charger</accname>
+            <accprice>50</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+		
+    </product>		
+ <product id="002">
+        <name>Motorola g5</name>
+        <price>349</price>
+        <category>SmartWatches</category>
+        <discount>5</discount>
+        <rdiscount>5</rdiscount>
+        <rwarranty>10</rwarranty>   
+		<rrebate>10</rrebate>   		
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60612</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Motorola</manufacturerName>
+        <quantity>40</quantity>     
+			<accessory id="01">
+            <accname>Wireless Charger</accname>
+            <accprice>35</accprice>
+            <accdiscount>5</accdiscount>
+        </accessory>
+</product>
+
+    <product id="003">
+        <name>iwatch 3</name>
+        <price>379</price>
+        <category>SmartWatches</category>
+        <discount>15</discount>
+        <rdiscount>5</rdiscount>
+        <rwarranty>3</rwarranty> 
+		<rrebate>10</rrebate>   		
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Apple</manufacturerName>
+        <quantity>60</quantity>     
+			<accessory id="01">
+            <accname>Wireless Charger</accname>
+            <accprice>55</accprice>
+            <accdiscount>15</accdiscount>
+        </accessory>
+</product>
+    <product id="004">
+        <name>Apple iwatch 2</name>
+        <price>379</price>
+        <category>SmartWatches</category>
+        <discount>15</discount>
+        <rdiscount>5</rdiscount>
+        <rwarranty>3</rwarranty> 
+		<rrebate>10</rrebate>   
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Apple</manufacturerName>
+        <quantity>20</quantity>     
+			<accessory id="01">
+            <accname>Wireless Charger</accname>
+            <accprice>55</accprice>
+            <accdiscount>15</accdiscount>
+        </accessory>
+		<accessory id="02">
+            <accname>Screen Gard</accname>
+            <accprice>50</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>		
+			<accessory id="03">
+            <accname>Wireless Charger</accname>
+            <accprice>50</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+			<accessory id="04">
+            <accname>Screen Gard</accname>
+            <accprice>50</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+
+    <product id="005">
+        <name>Panasonic</name>
+        <price>379</price>
+        <category>SmartWatches</category>
+        <discount>15</discount>
+        <rdiscount>5</rdiscount>
+        <rwarranty>3</rwarranty>  
+			<rrebate>10</rrebate>   
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Panasonic</manufacturerName>
+        <quantity>40</quantity>     
+			<accessory id="01">
+            <accname>Wireless Charger</accname>
+            <accprice>55</accprice>
+            <accdiscount>15</accdiscount>
+        </accessory>
+</product>
+
+    <product id="006">
+        <name>Micromax watch</name>
+        <price>200</price>
+        <category>SmartWatches</category>        
+		 <discount>15</discount>
+        <rdiscount>5</rdiscount>
+        <rwarranty>3</rwarranty>      
+		<rrebate>10</rrebate>   		
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60619</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Micromax</manufacturerName>
+        <quantity>60</quantity>     
+			<accessory id="01">
+            <accname>Wireless Charger</accname>
+            <accprice>65</accprice>
+            <accdiscount>5</accdiscount>
+        </accessory>
+</product>
+<product id="007">
+        <name>Karbon watch</name>
+        <price>150</price>
+        <category>SmartWatches</category>
+        <discount>25</discount>
+        <rdiscount>5</rdiscount>
+        <rwarranty>3</rwarranty> 
+        <rrebate>10</rrebate>   		
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Karbon</manufacturerName>
+        <quantity>70</quantity>     		
+		<accessory id="01">
+            <accname>Screencover</accname>
+            <accprice>15</accprice>
+            <accdiscount>2</accdiscount>
+		</accessory>
+		<accessory id="02">
+            <accname>Fast Charger</accname>
+            <accprice>75</accprice>			
+            <accdiscount>5</accdiscount>
+		</accessory>
+</product>
+ <product id="008">
+        <name>Motorola watch 2</name>
+        <price>349</price>
+        <category>SmartWatches</category>
+        <discount>5</discount>
+        <rdiscount>5</rdiscount>
+        <rwarranty>10</rwarranty>   
+        <rrebate>10</rrebate>   		
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60612</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Motorola</manufacturerName>
+        <quantity>80</quantity>     
+			<accessory id="01">
+            <accname>Wireless Charger</accname>
+            <accprice>35</accprice>
+            <accdiscount>5</accdiscount>
+        </accessory>
+</product>
+
+    <product id="009">
+        <name>Samsang Note 8</name>
+        <price>379</price>
+        <category>SmartWatches</category>
+        <discount>15</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>3</rwarranty>        
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Samsung</manufacturerName>
+        <quantity>30</quantity>     
+			<accessory id="01">
+            <accname>Wireless Charger</accname>
+            <accprice>55</accprice>
+            <accdiscount>15</accdiscount>
+        </accessory>
+</product>
+
+    <product id="010">
+        <name>Apple iwatch 5</name>
+        <price>379</price>
+        <category>SmartWatches</category>
+        <discount>15</discount>
+        <rdiscount>5</rdiscount>
+        <rwarranty>3</rwarranty>       
+        <rrebate>10</rrebate>   		
+        <retailer>Bestbuy</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Apple</manufacturerName>
+        <quantity>40</quantity>     
+			<accessory id="01">
+            <accname>Wireless Charger</accname>
+            <accprice>55</accprice>
+            <accdiscount>15</accdiscount>
+        </accessory>
+</product>
+
+<product id="011">
+        <name>Dell Insipron 15 7000 gaming</name>
+        <price>799</price>
+        <category>Laptops</category>
+        <discount>50</discount>
+        <rdiscount>10</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Dell</manufacturerName>
+        <quantity>90</quantity>      
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>10</accdiscount>
+        </accessory>		
+</product>
+      <product id="012">
+        <name>Samsung slick Laptop</name>
+        <price>699</price>
+        <category>Laptops</category>
+        <discount>60</discount>
+        <rdiscount>10</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Samsang</manufacturerName> 
+        <quantity>10</quantity>     
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>10</accdiscount>
+        </accessory>		
+</product>
+      <product id="013">
+        <name>Machbook 3</name>
+        <price>1299</price>
+        <category>Laptops</category>
+        <discount>50</discount>
+        <rdiscount>10</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60619</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Croma</manufacturerName>  
+        <quantity>50</quantity>    
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>60</accprice>
+            <accdiscount>5</accdiscount>
+        </accessory>		
+</product>
+      <product id="014">
+        <name>Micromax Laptop</name>
+        <price>499</price>
+        <category>Laptops</category>
+        <discount>10</discount>
+        <rdiscount>20</rdiscount>
+        <rwarranty>3</rwarranty>    
+<rrebate>10</rrebate>   		
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>20</quantity>      
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>90</accprice>
+            <accdiscount>5</accdiscount>
+        </accessory>		
+</product>
+      <product id="015">
+        <name>Dell XPS</name>
+        <price>799</price>
+        <category>Laptops</category>
+        <discount>50</discount>
+        <rdiscount>10</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>70</quantity>      
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>10</accdiscount>
+        </accessory>		
+</product>
+<product id="016">
+        <name>Dell Inspiron 14 5548</name>
+        <price>799</price>
+        <category>Laptops</category>
+        <discount>50</discount>
+        <rdiscount>10</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName> 
+        <quantity>60</quantity>     
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>10</accdiscount>
+        </accessory>		
+</product>
+      <product id="017">
+        <name>Samsung Thinkpad</name>
+        <price>699</price>
+        <category>Laptops</category>
+        <discount>60</discount>
+        <rdiscount>10</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName> 
+        <quantity>10</quantity>     
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>10</accdiscount>
+        </accessory>		
+</product>
+      <product id="018">
+        <name>Apple MacBook Pro</name>
+        <price>1299</price>
+        <category>Laptops</category>
+        <discount>50</discount>
+        <rdiscount>10</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60619</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Croma</manufacturerName>    
+        <quantity>30</quantity>  
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>60</accprice>
+            <accdiscount>5</accdiscount>
+        </accessory>		
+</product>
+      <product id="019">
+        <name>Toshiba Laptop</name>
+        <price>499</price>
+        <category>Laptops</category>
+        <discount>10</discount>
+        <rdiscount>20</rdiscount>
+        <rwarranty>3</rwarranty>       
+<rrebate>10</rrebate>   		
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Croma</manufacturerName>  
+        <quantity>20</quantity>    
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>90</accprice>
+            <accdiscount>5</accdiscount>
+        </accessory>		
+</product>
+      <product id="020">
+        <name>Dell</name>
+        <price>799</price>
+        <category>Laptops</category>
+        <discount>50</discount>
+        <rdiscount>10</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>  
+        <quantity>25</quantity>    
+		<accessory id="01">
+            <accname>Laptop Stand</accname>
+            <accprice>100</accprice>
+            <accdiscount>10</accdiscount>
+        </accessory>		
+</product>
+<product id="021">
+        <name>BOSE X10</name>
+        <price>299</price>
+        <category>HeadPhones</category>
+        <discount>1</discount>
+        <rdiscount>9</rdiscount>
+        <rwarranty>9</rwarranty>
+        <rrebate>10</rrebate>   
+          <retailer>GoOne</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName> 
+        <quantity>30</quantity>       
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="022">
+        <name>Sennheiser</name>
+        <price>249</price>
+        <category>HeadPhones</category>
+        <discount>10</discount>
+        <rdiscount>19</rdiscount>
+        <rwarranty>1</rwarranty>
+        <rrebate>10</rrebate>   
+          <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Detroit</retailerCity>
+        <retailerState>MH</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>    
+        <quantity>35</quantity>    
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="023">
+        <name>Playstation Headset</name>
+        <price>249</price>
+        <category>HeadPhones</category>
+        <discount>15</discount>
+        <rdiscount>19</rdiscount>
+        <rwarranty>2</rwarranty>
+        <rrebate>10</rrebate>   
+          <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Houstan</retailerCity>
+        <retailerState>TX</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName> 
+        <quantity>30</quantity>       
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="024">
+        <name>Apple HeadPhones</name>
+        <price>349</price>
+        <category>HeadPhones</category>
+        <discount>1</discount>
+        <rdiscount>0</rdiscount>
+        <rwarranty>5</rwarranty>     
+<rrebate>10</rrebate>   		
+        <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>10</quantity>        
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="025">
+        <name>Apple earpods</name>
+        <price>149</price>
+        <category>HeadPhones</category>
+        <discount>10</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>5</rwarranty>      
+<rrebate>10</rrebate>   		
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>  
+        <quantity>15</quantity>      
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="026">
+        <name>BOSE Wireless</name>
+        <price>299</price>
+        <category>HeadPhones</category>
+        <discount>1</discount>
+        <rdiscount>9</rdiscount>
+        <rwarranty>9</rwarranty>
+		<rrebate>10</rrebate>   
+        
+          <retailer>GoOne</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName> 
+        <quantity>35</quantity>       
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="027">
+        <name>Skullcandy gear s5</name>
+        <price>249</price>
+        <category>HeadPhones</category>
+        <discount>10</discount>
+        <rdiscount>19</rdiscount>
+        <rwarranty>1</rwarranty>
+		<rrebate>10</rrebate>   
+        
+          <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Detroit</retailerCity>
+        <retailerState>MH</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName> 
+        <quantity>5</quantity>       
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="028">
+        <name>Apple airpods 2</name>
+        <price>349</price>
+        <category>HeadPhones</category>
+        <discount>1</discount>
+        <rdiscount>0</rdiscount>
+        <rwarranty>5</rwarranty>  
+<rrebate>10</rrebate>   		
+        <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>  
+        <quantity>50</quantity>      
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="029">
+        <name>Samsang noise cancel</name>
+        <price>149</price>
+        <category>HeadPhones</category>
+        <discount>10</discount>
+        <rdiscount>10</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>5</rwarranty>        
+        <retailer>Gionee</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>   
+        <quantity>25</quantity>     
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="030">
+        <name>Panasonic Headset</name>
+        <price>249</price>
+        <category>HeadPhones</category>
+        <discount>20</discount>
+        <rdiscount>12</rdiscount>
+        <rwarranty>2</rwarranty>
+		<rrebate>10</rrebate>   
+        
+          <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>   
+        <quantity>40</quantity>     
+		<accessory id="01">
+            <accname>Cover</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>
+</product>
+<product id="031">
+        <name>XPeria ZL</name>
+        <price>400</price>
+        <category>SmartPhones</category>
+        <discount>5</discount>
+        <rdiscount>16</rdiscount>
+		<rrebate>0</rrebate>   
+        <rwarranty>10</rwarranty>
+          <retailer>eTrader</retailer>
+        <retailerZip>60615</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>100</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="032">
+        <name>Samsung S8 Plus</name>
+        <price>750</price>
+        <category>SmartPhones</category>
+        <discount>15</discount>
+        <rdiscount>6</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>
+         <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>90</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>40</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product>
+<product id="033">
+        <name>Xperia Z2</name>
+        <price>999</price>
+        <category>SmartPhones</category>
+        <discount>0</discount>
+        <rdiscount>0</rdiscount>
+		<rrebate>0</rrebate>   
+        <rwarranty>3</rwarranty>
+          <retailer>eTrader</retailer>
+        <retailerZip>60618</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>110</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>30</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="034">
+        <name>MOTOROLA G5 Plus</name>
+        <price>349</price>
+        <category>SmartPhones</category>
+        <discount>50</discount>
+        <rdiscount>7</rdiscount>
+        <rwarranty>10</rwarranty>
+		<rrebate>10</rrebate>   
+          <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Detroit</retailerCity>
+        <retailerState>MH</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>60</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>25</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product>
+<product id="035">
+        <name>iphone X</name>
+        <price>200</price>
+        <category>SmartPhones</category>
+        <discount>20</discount>
+        <rdiscount>13</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>1</rwarranty>
+          <retailer>eTrader</retailer>
+        <retailerZip>60676</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>95</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>2</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="036">
+        <name>XPeria Z</name>
+        <price>400</price>
+        <category>SmartPhones</category>
+        <discount>5</discount>
+        <rdiscount>16</rdiscount>
+		<rrebate>0</rrebate>   
+        <rwarranty>10</rwarranty>
+          <retailer>eTrader</retailer>
+        <retailerZip>60615</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>99</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="037">
+        <name>Samsung Note 8</name>
+        <price>750</price>
+        <category>SmartPhones</category>
+        <discount>15</discount>
+        <rdiscount>6</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>
+         <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>20</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>40</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>
+        <accessory id="02">
+            <accname>earp</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="038">
+        <name>iPhone 8 plus</name>
+        <price>999</price>
+        <category>SmartPhones</category>
+        <discount>0</discount>
+        <rdiscount>0</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>3</rwarranty>
+          <retailer>eTrader</retailer>
+        <retailerZip>60618</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>45</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>30</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="039">
+        <name>MOTOROLA G4</name>
+        <price>349</price>
+        <category>SmartPhones</category>
+        <discount>50</discount>
+        <rdiscount>7</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>10</rwarranty>
+          <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Detroit</retailerCity>
+        <retailerState>MH</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>22</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>25</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>   
+</product>
+<product id="040">
+        <name>iPhone 6s Plus</name>
+        <price>200</price>
+        <category>SmartPhones</category>
+        <discount>20</discount>
+        <rdiscount>13</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>1</rwarranty>
+		<rrebate>10</rrebate>
+          <retailer>eTrader</retailer>
+        <retailerZip>60676</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>10</quantity>
+		<accessory id="01">
+            <accname>HeadPhones</accname>
+            <accprice>2</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="041">
+        <name>Samsang Bar</name>
+        <price>99</price>
+        <category>Speakers</category>
+        <discount>10</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>3</rwarranty>     
+<rrebate>10</rrebate>   		
+        <retailer>eTrader</retailer>
+        <retailerZip>60615</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>21</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>	
+<product id="042">
+        <name>Amazon Alexa</name>
+        <price>40</price>
+        <category>Speakers</category>
+        <discount>0</discount>
+        <rdiscount>0</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>1</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>20</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+    </product>
+<product id="043">
+        <name>Google Voice</name>
+        <price>299</price>
+        <category>Speakers</category>
+        <discount>5</discount>
+        <rdiscount>5</rdiscount>
+        <rwarranty>2</rwarranty>  
+<rrebate>10</rrebate>   		
+        <retailer>eTrader</retailer>
+        <retailerZip>60617</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>32</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>	
+<product id="044">
+        <name>BOSE Explode</name>
+        <price>340</price>
+        <category>Speakers</category>
+        <discount>10</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>1</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Losangelis</retailerCity>
+        <retailerState>CA</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>35</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="045">
+        <name>Micromax Bang</name>
+        <price>150</price>
+        <category>Speakers</category>
+        <discount>10</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>1</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>22</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="046">
+        <name>Samsang Bar2</name>
+        <price>99</price>
+        <category>Speakers</category>
+        <discount>10</discount>
+        <rdiscount>10</rdiscount>
+        <rwarranty>3</rwarranty>     
+<rrebate>10</rrebate>   		
+        <retailer>eTrader</retailer>
+        <retailerZip>60615</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>8</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>	
+<product id="047">
+        <name>Amazon Alexa2</name>
+        <price>40</price>
+        <category>Speakers</category>
+        <discount>0</discount>
+        <rdiscount>0</rdiscount>
+        <rwarranty>1</rwarranty>     
+<rrebate>10</rrebate>   		
+        <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Chicago</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>NO</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>41</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+    </product>
+<product id="048">
+        <name>Google Voice2</name>
+        <price>299</price>
+        <category>Speakers</category>
+        <discount>5</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60617</retailerZip>
+        <retailerCity>NewYork</retailerCity>
+        <retailerState>NY</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>18</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>	
+<product id="049">
+        <name>BOSE Explode2</name>
+        <price>340</price>
+        <category>Speakers</category>
+        <discount>10</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>1</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60616</retailerZip>
+        <retailerCity>Losangelis</retailerCity>
+        <retailerState>CA</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>25</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="050">
+        <name>Micromax Bang2</name>
+        <price>150</price>
+        <category>Speakers</category>
+        <discount>10</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>1</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>50</quantity>
+		<accessory id="01">
+            <accname>Memory Card</accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product>
+<product id="051">
+        <name>Sandisk s2</name>
+        <price>150</price>
+        <category>ExternalStorage</category>
+        <discount>10</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>5</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>20</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product> 
+<product id="052">
+        <name>SATA S1</name>
+        <price>990</price>
+        <category>ExternalStorage</category>
+        <discount>10</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>5</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>19</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product> 
+<product id="053">
+        <name>Western Digital W2</name>
+        <price>590</price>
+        <category>ExternalStorage</category>
+        <discount>15</discount>
+        <rdiscount>2</rdiscount>
+		<rrebate>74</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>20</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>19</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product> 
+<product id="054">
+        <name>Samsung Flash Drive</name>
+        <price>390</price>
+        <category>ExternalStorage</category>
+        <discount>18</discount>
+        <rdiscount>3</rdiscount>
+		<rrebate>54</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>50</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>19</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product> 
+<product id="055">
+        <name>Sandisk Memory Card</name>
+        <price>99</price>
+        <category>ExternalStorage</category>
+        <discount>16</discount>
+        <rdiscount>6</rdiscount>
+		<rrebate>23</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>70</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>19</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product> 
+<product id="056">
+        <name>Sandisk s6</name>
+        <price>150</price>
+        <category>ExternalStorage</category>
+        <discount>10</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>5</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>5</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>10</accprice>
+            <accdiscount>1</accdiscount>
+        </accessory>        
+</product> 
+<product id="057">
+        <name>SATA S7</name>
+        <price>990</price>
+        <category>ExternalStorage</category>
+        <discount>10</discount>
+        <rdiscount>5</rdiscount>
+		<rrebate>10</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>28</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>19</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product> 
+<product id="058">
+        <name>Western Digital W4</name>
+        <price>590</price>
+        <category>ExternalStorage</category>
+        <discount>15</discount>
+        <rdiscount>2</rdiscount>
+		<rrebate>74</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>55</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>19</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product> 
+<product id="059">
+        <name>Samsung Flash Drive2</name>
+        <price>390</price>
+        <category>ExternalStorage</category>
+        <discount>18</discount>
+        <rdiscount>3</rdiscount>
+		<rrebate>54</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>10</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>19</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product> 
+<product id="060">
+        <name>Sandisk Memory Card2</name>
+        <price>99</price>
+        <category>ExternalStorage</category>
+        <discount>16</discount>
+        <rdiscount>6</rdiscount>
+		<rrebate>23</rrebate>   
+        <rwarranty>2</rwarranty>        
+        <retailer>eTrader</retailer>
+        <retailerZip>60173</retailerZip>
+        <retailerCity>Schaumburg</retailerCity>
+        <retailerState>IL</retailerState>
+        <productOnSale>YES</productOnSale>
+        <manufacturerName>Croma</manufacturerName>
+        <quantity>45</quantity>
+		<accessory id="01">
+            <accname>Cable </accname>
+            <accprice>19</accprice>
+            <accdiscount>2</accdiscount>
+        </accessory>        
+</product> 
+</ProductCatalog>

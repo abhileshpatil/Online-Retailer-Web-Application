@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+ Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                      http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0"
+  metadata-complete="true">
+
+  <listener>
+		<listener-class>
+         	StartConnection   
+        </listener-class>
+   </listener>
+
+  <display-name>Welcome to Tomcat</display-name>
+  <description>
+     Welcome to Tomcat
+  </description>
+  <servlet>
+  <servlet-name>Home</servlet-name>
+  <servlet-class>Home</servlet-class>
+  </servlet>
+  <servlet>
+  <servlet-name>HomePage</servlet-name>
+  <servlet-class>HomePage</servlet-class>
+  </servlet>
+  <servlet>
+  <servlet-name>Register</servlet-name>
+  <servlet-class>Register</servlet-class>
+  </servlet>
+  <servlet>
+  <servlet-name>Login</servlet-name>
+  <servlet-class>Login</servlet-class>
+  </servlet>
+  <servlet>
+  <servlet-name>Logout</servlet-name>
+  <servlet-class>Logout</servlet-class>
+  </servlet>
+  <servlet>
+        <servlet-name>CartPage</servlet-name>
+        <servlet-class>CartPage</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>PreviewPage</servlet-name>
+        <servlet-class>PreviewPage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>PreviewPage</servlet-name>
+        <url-pattern>/preview</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>OrderPage</servlet-name>
+        <servlet-class>OrderPage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OrderPage</servlet-name>
+        <url-pattern>/myaccount/salesman/orders</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>ProductView</servlet-name>
+        <servlet-class>ProductView</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ProductView</servlet-name>
+        <url-pattern>/product_view</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>AddProduct</servlet-name>
+        <servlet-class>AddProduct</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AddProduct</servlet-name>
+        <url-pattern>/myaccount/storemanager/products</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>CartPage</servlet-name>
+        <url-pattern>/cart</url-pattern>
+    </servlet-mapping>
+  <servlet-mapping>
+  <servlet-name>Home</servlet-name>
+  <url-pattern>/Home</url-pattern>
+  </servlet-mapping>
+  <servlet>
+        <servlet-name>CreateUser</servlet-name>
+        <servlet-class>CreateUser</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CreateUser</servlet-name>
+        <url-pattern>/myaccount/salesman/createuser</url-pattern>
+    </servlet-mapping>
+  <servlet>
+        <servlet-name>MyAccount</servlet-name>
+        <servlet-class>MyAccount</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MyAccount</servlet-name>
+        <url-pattern>/myaccount/retailer</url-pattern>
+        <url-pattern>/myaccount/customer</url-pattern>
+        <url-pattern>/myaccount/salesman</url-pattern>
+        <url-pattern>/myaccount/storemanager</url-pattern>
+
+        <url-pattern>/myaccount</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>OfferWarranty</servlet-name>
+        <servlet-class>OfferWarranty</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>OfferWarranty</servlet-name>
+        <url-pattern>/myaccount/retailer/offer</url-pattern>
+    </servlet-mapping>
+     <servlet>
+        <servlet-name>CustOrderPage</servlet-name>
+        <servlet-class>CustOrderPage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CustOrderPage</servlet-name>
+        <url-pattern>/myaccount/customer/orders</url-pattern>
+    </servlet-mapping>
+  <servlet-mapping>
+  <servlet-name>HomePage</servlet-name>
+  <url-pattern>/HomePage</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  <servlet-name>Register</servlet-name>
+  <url-pattern>/register</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  <servlet-name>Login</servlet-name>
+  <url-pattern>/login</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  <servlet-name>Logout</servlet-name>
+  <url-pattern>/Logout</url-pattern>
+  </servlet-mapping>
+  <servlet>
+        <servlet-name>ReviewPage</servlet-name>
+        <servlet-class>ReviewPage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ReviewPage</servlet-name>
+        <url-pattern>/review</url-pattern>
+    </servlet-mapping>
+   <servlet>
+        <servlet-name>ViewReview</servlet-name>
+        <servlet-class>ViewReview</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ViewReview</servlet-name>
+        <url-pattern>/viewreview</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>TrendingPage</servlet-name>
+        <servlet-class>TrendingPage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>TrendingPage</servlet-name>
+        <url-pattern>/trending</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>AnalyticsResultPage</servlet-name>
+        <servlet-class>AnalyticsResultPage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AnalyticsResultPage</servlet-name>
+        <url-pattern>/analytics/result</url-pattern>
+    </servlet-mapping>
+    
+     <servlet>
+        <servlet-name>AnalyticsInputPage</servlet-name>
+        <servlet-class>AnalyticsInputPage</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AnalyticsInputPage</servlet-name>
+        <url-pattern>/analytics</url-pattern>
+    </servlet-mapping>
+
+     <servlet>
+        <servlet-name>Inventory</servlet-name>
+        <servlet-class>Inventory</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Inventory</servlet-name>
+        <url-pattern>/inventory</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SalesReport</servlet-name>
+        <servlet-class>SalesReport</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SalesReport</servlet-name>
+        <url-pattern>/salesreport</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>AjaxUtility</servlet-name>
+        <servlet-class>AjaxUtility</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AjaxUtility</servlet-name>
+        <url-pattern>/SearchController</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>AutoProduct</servlet-name>
+        <servlet-class>AutoProduct</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AutoProduct</servlet-name>
+        <url-pattern>/autoproduct</url-pattern>
+    </servlet-mapping>
+  <session-config>
+        <session-timeout>20</session-timeout>
+     </session-config>
+
+</web-app>
